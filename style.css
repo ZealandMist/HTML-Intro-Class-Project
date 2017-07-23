@@ -1,0 +1,76 @@
+body {
+  background-image: url("images/rockywall.png");
+}
+
+img {
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+.not-special {
+  text-align: center;
+}
+
+a:hover {
+  background-color: black;
+}
+
+
+.center {
+  text-align: center;
+  border: 1px solid black;
+  background-image: url("https://placekitten.com/g/200/300");
+  }
+
+
+h1 {
+  font-family: georgia, serif;
+  font-size: 18px;
+  color: teal;
+}
+
+p {
+  font-family: helvetica, sans-serif;
+  font-size: 12px
+}
+
+.highlight{
+  color: aqua;
+  font-size: 30px
+
+}
+
+.footerimg {
+  text-align: inherit;
+  border: 1px solid blue;
+  border-radius: 3px;
+  background-color:LightSteelBlue;
+}
+
+.main {
+  height: 150px;
+  width: auto;
+  margin: 5px;
+  border: 5px solid gray;
+  padding: 10px 13px;
+}
+
+
+button: {
+  border: 1px solid black
+  border-radius: 22px;
+  }
+
+button:focus {
+    background: red;
+  }
+
+button:hover {
+  background: purple;
+  }
+
+
+footer {
+  font-family: cursive, fantasy, serif;
+  text-align: center;
+}
